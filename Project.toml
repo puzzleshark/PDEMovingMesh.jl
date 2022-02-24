@@ -1,0 +1,4 @@
+name = "PDEMovingMesh"
+uuid = "88e69bd1-371c-4f80-829d-70cc2b7ec1cd"
+authors = ["Samuel Banning <samcbanning@gmail.com>"]
+version = "0.1.0"
